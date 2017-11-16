@@ -74,7 +74,7 @@ li a {
     font-family: 'Quicksand', sans-serif;
     font-size:1em;
     font-weight: 900;
-    background-image: url("/week2/images/eames-dots-lt.png");
+    background-image: url("../images/eames-dots-lt.png");
     background-repeat: repeat-x;
   }
   /*
